@@ -1,0 +1,218 @@
+/* header */
+
+.header {
+    padding: 10px;
+    background-color:blueviolet;
+    color:white;
+    border-bottom-left-radius: 1rem; 
+    margin-left: 8.5rem;
+    margin-right: 8.5rem;
+    
+}
+
+.matha{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+.title{
+    text-size-adjust:10px;
+    margin-left: 1em;
+    padding-top: 3px;
+}
+
+.nav a {
+    text-align: right;
+    color: white; 
+    display: inline-block;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.nav {
+    text-align: right;
+    text-decoration: none;
+
+}
+
+.image{
+    text-align: center;
+}
+
+.images {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 4rem
+
+    
+}
+
+
+
+.index {
+    text-align: center;
+    background-color: #E5E7EB;
+    border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding: 2rem;
+    font-size: 18px;
+}
+
+.para {
+    text-align: center;
+    border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding: 4rem;
+    font-size: 18px;
+
+}
+
+.pari {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 1rem;
+    padding: 4px 1rem;
+    background-color:#6D28D9;
+    color:#fff
+}
+
+
+.blogs {
+    text-align: center;
+    background-color: #E5E7EB;
+    border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding: 2rem;
+    font-size: 18px;
+}
+
+.blog {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 2rem;
+    padding: 2px 1rem;
+    border: solid;
+    background-color: #6D28D9;
+    color: #EDE9FE;
+    
+    
+}
+
+
+.footers {
+    text-align: center; 
+    background-color: blueviolet;
+    color: #F3F4F6;
+    border-top-right-radius:2rem;
+    padding: 2rem; 
+    /* margin: 4rem; */
+    /* margin-bottom: 50px; */
+    margin-top: 5rem;
+    border-bottom: 5rem;
+    padding-bottom: 2rem;
+    font-size: 1rem;
+}
+.footer_link{
+    padding: 2rem;
+    color: #fff;
+    font-size: 23px;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+/* projects .blogs */
+
+.bichat{text-align: center;}
+
+
+.see{font-size: 25px;
+    text-align: center;
+    padding: 4rem;}
+
+
+
+.rang{background-color: #E5E7EB;
+        border-radius: 2rem;
+        margin-left: 25rem;
+        margin-right: 25rem;
+        padding: 2rem;
+        font-size: 18px;
+
+}
+
+
+.khali{border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding: 4rem;
+    font-size: 18px;
+}
+
+.link1{text-decoration: none;
+    font-size: 20px;
+    border: 2px solid #818CF8;
+    border-radius: 2rem;
+    padding: 4px 1rem;
+    margin-right: 2rem;
+    background-color: #3B82F6;
+    color: #fff;}
+
+
+.link2{text-decoration: none;
+    font-size: 20px;
+    border: 2px solid #818CF8;
+    border-radius: 2rem;
+    padding: 4px 1rem;
+    margin-right: 2rem;
+    
+}
+
+
+/* .blogs */
+
+.my_blog {
+    text-align: center;
+    padding: 5rem;
+    font-size: 35px;
+}
+
+.second {
+    text-align: center;
+}
+
+.one_blog {
+    border-radius: 2rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding: 4rem;
+    font-size: 18px;
+
+}
+
+.thrd_link {
+    text-decoration: none;
+    font-size: 20px;
+    border: 2px solid #818CF8;
+    border-radius: 2rem;
+    padding: 4px 1rem;
+    margin-right: 2rem;
+    background-color: #3B82F6;
+    color: #fff;
+}
+  
